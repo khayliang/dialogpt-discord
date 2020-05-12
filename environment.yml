@@ -1,4 +1,4 @@
-name: gpt2-ws
+name: gpt2-discord
 channels:
   - pytorch
   - defaults
