@@ -1,6 +1,9 @@
 # dialogpt-discord
 A discord chat bot implementation with DialoGPT as a conversational model.
 
+Plans:
+- Add pipeline to train bot on your whatsapp chat logs to talk like you.
+
 # Installation
 Before you do anything here, follow the guide [here](https://discordpy.readthedocs.io/en/latest/discord.html) to setup a bot account and invite the bot account into your server. Copy your bot authentication token. 
 
